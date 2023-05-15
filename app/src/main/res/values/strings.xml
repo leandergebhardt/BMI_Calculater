@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="radio1">Female</string>
+    <string name="radio2">Male</string>
+    <string name="button_text">Calculate BMI</string>
+    <string name="age">Age (years)</string>
+    <string name="height">Height (m)</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="m">M</string>
+    <string name="feet">Feet</string>
+    <string name="not_specified">Not specified</string>
+</resources>
